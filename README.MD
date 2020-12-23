@@ -1,7 +1,7 @@
 # Web Components Todo list app
 
 ## Global Dependencies
-- `npm install polymer-cli`
+- `npm install -g polymer-cli`
 
 
 ## Instructions
